@@ -1,3 +1,3 @@
-# secure.your.data
+# Secure you Data in Internet 
 I shared a informative blog post about how to score your digital things in the era of internet 
-https://defensivecomputingchecklist.com/ 
+link : https://defensivecomputingchecklist.com/ 
